@@ -14,7 +14,7 @@ Desafio proposto no curso de Docker da Full Cycle, onde foi criada uma imagem Go
 
 ## Execução
 
-1. Usar o comando `docker run --rm --name golang cvieirasp/fc-rocks:latest` para baixar a imagem, executar o container e removê-lo em seguida.
+1. Usar o comando `docker run --rm --name golang cvieirasp/fc-rocks:latest` para baixar a imagem, executar o container e removê-lo em seguida
 
 ## Imagem Docker
 
@@ -22,5 +22,5 @@ Desafio proposto no curso de Docker da Full Cycle, onde foi criada uma imagem Go
 
 ## Referência
 
-- Curso [Full Cycle](https://curso.fullcycle.com.br/curso-fullcycle/).
+- Curso [Full Cycle](https://curso.fullcycle.com.br/curso-fullcycle/)
 - Tutorial [GoLang](https://go.dev/doc/tutorial/getting-started)
